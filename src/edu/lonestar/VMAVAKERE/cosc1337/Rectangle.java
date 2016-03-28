@@ -31,7 +31,7 @@ public class Rectangle {
 	}
 	
 	/***
-	 * 
+	 * override class
 	 */
 	@Override
 	public String toString()

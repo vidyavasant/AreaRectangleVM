@@ -52,7 +52,7 @@ public class AreaRectangleVM {
     /**
     * This is the application main. Calculates the area of a rectangle when the
     * user inputs values for the width and length.
-    * 
+    * modified for refactor
     * @param args
     *           command line arguments (not used for this app)
     */
